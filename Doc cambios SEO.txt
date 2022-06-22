@@ -1,0 +1,6 @@
+En el archivo index.HTML sumé el SEO con las siguientes características:
+
+- Descripción: mediante la etiqueta meta name "og:description" coloqué la siguiente frase que anima a ingresar de forma que la persona se interese por los peoductos "En LocosXelMate vas a encontrar todo lo que necesitas para disfrutar de un buen matecon amigos. ¡Ingresa ya!"
+- Palabras Claves: mediante la etiqueta meta name "og:keywords" coloqué las siguientes palabras que ayudarán a la persona a encontrar más rápido la página web "locos, mate, mates, buenos momentos, disfute, yerba, tienda online"
+- Nombre del Sitio Web: mediante la etiqueta meta name "og:site__name" coloqué el nombre de la empresa para que automáticamente se escriba dicho nombre, este muestre nuestra página web "og:site__name"
+- Encabezado: mediante la etiqueta h1 coloqué el logo de la empresa y en la descripción de dicho logo "LocosXelMate" que va a hacer más facil encontrarnos en formato imagen
